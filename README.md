@@ -1,6 +1,6 @@
 ### Hi All :rocket:
-My name is Alfonso García, [@alfoncode](https://twitter.com/alfoncode) in social networks.  
-I'm a software engineer :computer:: Java, TypeScript, Docker, Kubernetes, DevOps...  
+My name is Alfonso José García, [@alfoncode](https://twitter.com/alfoncode) in social networks.  
+I'm a devsecops software engineer :computer:: Java, TypeScript, Github Actions, Docker, Kubernetes...  
 Enthusiast of new technologies and cooking.  
 See you on the net.
 
